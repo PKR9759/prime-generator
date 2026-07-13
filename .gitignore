@@ -1,0 +1,10 @@
+# Compiled binaries
+bin/
+
+# Docs that should not be pushed to GitHub
+docs/
+
+# System and editor files
+.DS_Store
+.vscode/
+.idea/
